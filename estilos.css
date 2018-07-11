@@ -1,0 +1,93 @@
+/* COLORES BASE DEL TEMA
+Normal => texto:#000 fondo:#f4faf4
+Encabezados => texto:#fff fondo:#4caf50
+Errores => texto:#000 fondo:#93cf95
+Normal2 => texto:#fff fondo:#265728
+*/
+
+body{
+    background-color: white;
+}
+
+nav{
+    padding: 20px;
+    background-color: black;
+}
+
+nav a{
+    background-color: black;
+    color: white;
+    transition: 0.2s;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+#nombre:hover{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    margin-top: 100px;
+    margin-left: 40%;
+    color: blue;
+}
+
+p{
+    color: black;
+    size: medium;
+    text-align: center;
+}
+
+#tabla{
+    border-collapse: collapse;
+    font-family: Arial;
+    margin: 2% 25% 25% 25%;
+}
+
+#tabla tr, #tabla td, #tabla th{
+    border: 1px solid black;
+}
+
+#tabla tr:hover{
+    background-color: gray;
+}
+
+.formulario{
+    margin: 15px 25% 25% 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

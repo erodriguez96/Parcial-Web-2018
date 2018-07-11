@@ -1,0 +1,1 @@
+El objetivo del examen es realizar las tareas del administrador especificadas en el enunciado del ejercicio (borar usuario en javascript) y las validaciones a los formularios pertinentes tanto por php como por javascript
